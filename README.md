@@ -26,7 +26,7 @@ ShakeToShuffle is a lightweight, web-based shuffling tool that lets you randomiz
 
 2. Open the Project:
 - Once cloned, you can open index.html directly in your browser.
-- Alternatively, visit: [Spin To Decide Live Demo](https://lepari23.github.io/ShakeToShuffle/)
+- Alternatively, visit: [ShakeToShuffle Live Demo](https://lepari23.github.io/ShakeToShuffle/)
 
 
 ## Usage
