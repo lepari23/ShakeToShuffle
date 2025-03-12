@@ -1,4 +1,4 @@
-/* Custom transition for card movements */
+/* Smooth transition for left/top changes with a 0.5s duration for each phase */
 .jumbled {
-  transition: transform 1s ease-out, left 1s ease-out, top 1s ease-out;
+  transition: left 0.5s ease-out, top 0.5s ease-out;
 }
