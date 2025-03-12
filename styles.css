@@ -1,0 +1,4 @@
+/* Custom transition for card movements */
+.jumbled {
+  transition: transform 1s ease-out, left 1s ease-out, top 1s ease-out;
+}
